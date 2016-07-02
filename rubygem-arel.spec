@@ -4,7 +4,7 @@
 #
 Name     : rubygem-arel
 Version  : 7.0.0
-Release  : 10
+Release  : 11
 URL      : https://rubygems.org/downloads/arel-7.0.0.gem
 Source0  : https://rubygems.org/downloads/arel-7.0.0.gem
 Summary  : No detailed summary available
